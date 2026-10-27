@@ -1,0 +1,96 @@
+{
+  "code": "SEOYOUNG",
+  "title": "SMASH SEOYOUNG",
+  "school": "서영대",
+  "fullName": "서영대학교",
+  "campusName": "서영대학교 광주캠퍼스",
+  "tagline": "서영대를 부셔 (시험기간 스트레스 해소)",
+  "description": "서영대학교 광주캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 서영대학교 광주캠퍼스 3D 화면과 SMASH SEOYOUNG 제목",
+  "url": "https://hong-iron.github.io/SMASH-SEOYOUNG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 486060905
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1185911757",
+      "n": "숭문관",
+      "why": "학교 건물 아님 — 건물대장에 '고등학교다목적동'으로 적힌 서강고등학교 건물(숭문관 수월학사)이라 대학 건물이 아니다."
+    },
+    {
+      "at": [
+        35.1751051,
+        126.869141
+      ],
+      "n": "고교실습동",
+      "why": "학교 건물 아님 — 옆 서강고등학교 부지(789-20)에 있는 고교실습동이다."
+    },
+    {
+      "at": [
+        35.1752001,
+        126.8690728
+      ],
+      "n": "지하대피소",
+      "why": "학교 건물 아님 — 서강고 부지(789-20)에 고교 건물과 함께 지은 지하대피소이고, 사진에는 평평한 콘크리트 바닥만 보인다."
+    },
+    {
+      "at": [
+        35.1749393,
+        126.8700798
+      ],
+      "n": "고교본관동",
+      "why": "학교 건물 아님 — OpenStreetMap에도 서강고등학교로 적힌 서강고 본관이고, 캠퍼스 경계 밖에 있다."
+    },
+    {
+      "at": [
+        35.17653,
+        126.8705534
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 정문 옆 경계 화단 위에 그려진 윤곽이라 사진에는 풀과 나무만 있다."
+    },
+    {
+      "at": [
+        35.1748035,
+        126.869678
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 서강고 본관 남쪽 화단에 그려진 윤곽으로, 고교 부지(789-20)에 있고 사진에도 건물이 없다."
+    },
+    {
+      "at": [
+        35.1751601,
+        126.8691411
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 서강고 대피소와 실습동 사이 비탈에 그려진 세모난 윤곽이고, 그 자리에 건물이 보이지 않는다."
+    },
+    {
+      "at": [
+        35.1750698,
+        126.8694941
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 서강고 실습동과 본관 사이에 걸친 작은 윤곽으로, 고교 부지(789-20)에 있는 고교 건물의 일부다."
+    }
+  ],
+  "look": {
+    "도서관및실습관동": {
+      "style": "brick",
+      "wall": "#96878b",
+      "glass": "#45404a",
+      "frame": "#ded9da"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
